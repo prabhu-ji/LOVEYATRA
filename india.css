@@ -1,0 +1,144 @@
+.book-now {
+  position: relative;
+}
+.loginbut {
+  position: absolute;
+  top: 603px;
+  left: 284px;
+  background-color: var(--color-dimgray);
+  width: 90px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.planning-a-trip {
+  margin: 0;
+}
+.b,
+.c {
+  font-family: var(--font-open-sans);
+}
+.c,
+.june-july-and {
+  font-weight: 600;
+}
+.jk-,
+.trivia-jk {
+  position: absolute;
+  top: 511px;
+  left: 24px;
+}
+.jk- {
+  top: 301px;
+  font-weight: 300;
+  font-family: var(--font-montserrat);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 351px;
+}
+.pexels-imad-clicks-14084149-1-icon {
+  position: absolute;
+  top: 17px;
+  left: 24px;
+  width: 351px;
+  height: 232px;
+  object-fit: cover;
+}
+.kashmir1 {
+  position: absolute;
+  top: 267px;
+  left: 171px;
+}
+.kashmir {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 400px;
+  height: 656px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.goa1,
+.rajasthan {
+  position: absolute;
+  top: 267px;
+  left: 165px;
+}
+.goa1 {
+  left: 186px;
+}
+.india {
+  top: 257px;
+  left: 74px;
+  width: 1294px;
+  height: 656px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  font-family: var(--font-open-sans);
+}
+.india,
+.india1,
+.intro1 {
+  position: absolute;
+}
+.india1 {
+  top: 17px;
+  left: calc(50% - 153px);
+  font-size: var(--font-size-81xl);
+}
+.intro1 {
+  top: 158px;
+  left: 94px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  width: 1252px;
+}
+.b3 {
+  left: 0;
+}
+.b3,
+.b4,
+.div,
+.pageno {
+  position: absolute;
+  top: 0;
+}
+.div {
+  left: 36px;
+  font-size: var(--font-size-sm);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-blueviolet);
+}
+.b4,
+.pageno {
+  left: 67px;
+}
+.pageno {
+  top: 969px;
+  left: 682px;
+  width: 77px;
+  height: 20px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.ind {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

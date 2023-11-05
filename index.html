@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>Loveyatra</title>
+    <link rel="icon" href="./public/external/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Square+Peg:wght@400&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sacramento:wght@400&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div>
+      <link href="./index.css" rel="stylesheet" />
+
+      <div class="loveyatra-container">
+        <div class="loveyatra-loveyatra">
+          <span class="loveyatra-text">
+            <span>
+              We are the Backpack Traveller, your favourite travel assistants!
+            </span>
+          </span>
+          <span class="loveyatra-text002" id="Travel"><span>DESTINATIONS</span></span>
+          <div class="loveyatra-minis">
+            <div class="loveyatra-rest">
+              <span class="loveyatra-text004"><span>3 DESTINATIONS</span></span>
+              <span class="loveyatra-text006"><span>3 DESTINATIONS</span></span>
+              <img
+                src="public/external/image20230827151142fpdl17719-7h43-200h.png"
+                alt="IMAGE20230827151142fpdl17719"
+                class="loveyatra-image20230827151142fpdl1"
+              />
+              <span class="loveyatra-text008"><span>RESTAURANTS</span></span>
+            </div>
+            <div class="loveyatra-beach">
+              <span class="loveyatra-text010"><span>2 DESTINATIONS</span></span>
+              <span class="loveyatra-text012"><span>BEACHES</span></span>
+              <img
+                src="public/external/image20230827191712fpdl17720-h6vo-200h.png"
+                alt="IMAGE20230827191712fpdl17720"
+                class="loveyatra-image20230827191712fpdl1"
+              />
+            </div>
+            <div class="loveyatra-overnight">
+              <span class="loveyatra-text014"><span>3 DESTINATIONS</span></span>
+              <span class="loveyatra-text016"><span>OVERNIGHT</span></span>
+              <img
+                src="public/external/image20230827151411fpdl17720-1hdd-200h.png"
+                alt="IMAGE20230827151411fpdl17720"
+                class="loveyatra-image20230827151411fpdl1"
+              />
+            </div>
+            <div class="loveyatra-camp">
+              <span class="loveyatra-text018"><span>2 DESTINATIONS</span></span>
+              <span class="loveyatra-text020"><span>CAMPING</span></span>
+              <img
+                src="public/external/camping7721-9l3-200h.png"
+                alt="camping7721"
+                class="loveyatra-camping"
+              />
+            </div>
+            <div class="loveyatra-lowbud">
+              <span class="loveyatra-text022"><span>3 DESTINATIONS</span></span>
+              <span class="loveyatra-text024"><span>LOW BUDGET</span></span>
+              <img
+                src="public/external/image20230827150937fpdl17721-sfs4-200h.png"
+                alt="IMAGE20230827150937fpdl17721"
+                class="loveyatra-image20230827150937fpdl1"
+              />
+            </div>
+          </div>
+          <div class="loveyatra-india">
+            <span class="loveyatra-text026"><span>India</span></span>
+            <img
+              src="public/external/india17722-fmac-300w.png"
+              alt="india17722"
+              class="loveyatra-india1"
+            />
+            <img
+              src="public/external/pexelsprabhalaraghuvir5790117722-rwci-400w.png"
+              alt="pexelsprabhalaraghuvir5790117722"
+              class="loveyatra-pexelsprabhalaraghuvir579011"
+            />
+            <span class="loveyatra-text028">
+              <span>BEACHES / MOUNTAINS / CUISINES</span>
+            </span>
+            <div class="loveyatra-explore">
+              <a href="india.html">
+                <span class="loveyatra-text030"><span>EXPLORE</span></span>
+              </a>
+            </div>
+            <img
+              src="public/external/linkedin27722-okqc-200w.png"
+              alt="linkedin27722"
+              class="loveyatra-linkedin2"
+            />
+            <img
+              src="public/external/linkedin37722-h6l8-200w.png"
+              alt="linkedin37722"
+              class="loveyatra-linkedin3"
+            />
+          </div>
+          <div class="loveyatra-japan">
+            <img
+              src="public/external/mapofjapanoutlinesilhouetteofjapanmapillustrationr7723-nz9p-300w.png"
+              alt="mapofjapanoutlinesilhouetteofjapanmapillustrationR7723"
+              class="loveyatra-mapofjapanoutlinesilhouetteofjapanmapillustration-r"
+            />
+            <img
+              src="public/external/pexelswillianjustendevasconcellos1582942717723-9spv-400w.png"
+              alt="pexelswillianjustendevasconcellos1582942717723"
+              class="loveyatra-pexelswillianjustendevasconcellos158294271"
+            />
+            <span class="loveyatra-text032"><span>Japan</span></span>
+            <span class="loveyatra-text034">
+              <span>PHOTOGRAPHY / HIDEAWAY</span>
+            </span>
+            <img
+              src="public/external/linkedin17723-i2fn-200w.png"
+              alt="linkedin17723"
+              class="loveyatra-linkedin1"
+            />
+            <img
+              src="public/external/linkedin37724-op1j-200w.png"
+              alt="linkedin37724"
+              class="loveyatra-linkedin31"
+            />
+            <div class="loveyatra-explore1">
+              <a href="Japan.html">
+                <span class="loveyatra-text036"><span>EXPLORE</span></span>
+              </a>
+            </div>
+          </div>
+          <div class="loveyatra-switzerland">
+            <img
+              src="public/external/pexelspixabay41595817724-3bhi-400w.png"
+              alt="pexelspixabay41595817724"
+              class="loveyatra-pexelspixabay4159581"
+            />
+            <img
+              src="public/external/outlinemapofswitzerlandbyb8gp17724-cg0h-300h.png"
+              alt="outlinemapofswitzerlandBYB8GP17724"
+              class="loveyatra-outlinemapofswitzerland-byb8gp1"
+            />
+            <span class="loveyatra-text038"><span>Switzerland</span></span>
+            <span class="loveyatra-text040">
+              <span>VIEWS / NATURE / LOW-BUDGET</span>
+            </span>
+            <img
+              src="public/external/linkedin17725-wsm2-200h.png"
+              alt="linkedin17725"
+              class="loveyatra-linkedin11"
+            />
+            <img
+              src="public/external/linkedin27725-stpt-200h.png"
+              alt="linkedin27725"
+              class="loveyatra-linkedin21"
+            />
+            <div class="loveyatra-explore2">
+              <a href="Swit.html">
+                <span class="loveyatra-text042"><span>EXPLORE</span></span>
+              </a>
+            </div>
+          </div>
+          <div class="loveyatra-usa">
+            <img
+              src="public/external/silhouettemapofunitedstatesofamericagenerated17725-oxa-300h.png"
+              alt="SilhouettemapofUnitedStatesofAmericagenerated17725"
+              class="loveyatra-silhouettemapof-united-statesof-americagenerated1"
+            />
+            <img
+              src="public/external/pexelspixabay20874517725-faw5-400w.png"
+              alt="pexelspixabay20874517725"
+              class="loveyatra-pexelspixabay2087451"
+            />
+            <span class="loveyatra-text044"><span>USA</span></span>
+            <span class="loveyatra-text046">
+              <span>BEACHES / DRINKS / HIDEAWAY</span>
+            </span>
+            <img
+              src="public/external/linkedin17726-wdgg-200h.png"
+              alt="linkedin17726"
+              class="loveyatra-linkedin12"
+            />
+            <img
+              src="public/external/linkedin27726-bfob-200h.png"
+              alt="linkedin27726"
+              class="loveyatra-linkedin22"
+            />
+            <img
+              src="public/external/linkedin37726-xnhl-200h.png"
+              alt="linkedin37726"
+              class="loveyatra-linkedin32"
+            />
+            <div class="loveyatra-explore3">
+              <a href="Usa.html">
+                <span class="loveyatra-text048"><span>EXPLORE</span></span>
+              </a>
+            </div>
+          </div>
+          <div class="loveyatra-frame5">
+            <span class="loveyatra-text050">
+              <span>MY TRAVEL ESSENTIALS</span>
+            </span>
+            <div class="loveyatra-frame6">
+              <img
+                src="public/external/image20230828000306fpdl17726-85lb-300w.png"
+                alt="IMAGE20230828000306fpdl17726"
+                class="loveyatra-image20230828000306fpdl1"
+              />
+            </div>
+            <div class="loveyatra-frame7">
+              <img
+                src="public/external/image20230828000243fpdl17726-2naa-300w.png"
+                alt="IMAGE20230828000243fpdl17726"
+                class="loveyatra-image20230828000243fpdl1"
+              />
+            </div>
+            <div class="loveyatra-frame8">
+              <img
+                src="public/external/headphonesbalancingwithbluebackground17727-44s-300w.png"
+                alt="headphonesbalancingwithbluebackground17727"
+                class="loveyatra-headphonesbalancingwithbluebackground1"
+              />
+            </div>
+            <div class="loveyatra-frame9">
+              <img
+                src="public/external/image20230828000126fpdl17727-a08j-300w.png"
+                alt="IMAGE20230828000126fpdl17727"
+                class="loveyatra-image20230828000126fpdl1"
+              />
+            </div>
+            <div class="loveyatra-frame10">
+              <img
+                src="public/external/image20230828000650fpdl17727-vvce-300w.png"
+                alt="IMAGE20230828000650fpdl17727"
+                class="loveyatra-image20230828000650fpdl1"
+              />
+            </div>
+            <span class="loveyatra-text052">
+              <span>
+                A useful travel essentials you should add to your packing list
+              </span>
+            </span>
+          </div>
+          <img
+            src="public/external/line17727-5e.svg"
+            alt="Line17727"
+            class="loveyatra-line1"
+          />
+          <span class="loveyatra-text054">
+            <span>
+              <span>RECENT STORIES FROM</span>
+              <br />
+              <span>DIFFERENT CITIES</span>
+            </span>
+          </span>
+          <img
+            src="public/external/rectangle117727-685-700w.png"
+            alt="Rectangle117727"
+            class="loveyatra-rectangle11"
+          />
+          <span class="loveyatra-text059">
+            <span>
+              Nestled amidst the majestic Himalayan foothills, Mussoorie, India,
+              captivated my heart with its enchanting beauty. The lush green
+              hills, wrapped in a soft, misty embrace, provided a tranquil
+              escape from the bustling world below. As I strolled along the
+              iconic Mall Road, I savored the delectable local cuisine and
+              discovered charming shops brimming with handmade crafts. The
+              thrill of paragliding over the picturesque landscape left me
+              breathless, while the serenity of the serene Kempty Falls offered
+              a peaceful respite. Mussoorie's rich colonial history echoed
+              through its architecture, with the historic Landour Clock Tower
+              and the enchanting Christ Church standing as timeless witnesses.
+              My visit to this Himalayan gem was a journey of awe and wonder,
+              leaving me with cherished memories of natural splendor and warm
+              hospitality. With each sunrise over the rolling hills, Mussoorie
+              unveiled new layers of its scenic grandeur, painting the sky with
+              hues of orange and pink. Whether it was sipping hot chai at a
+              roadside stall or gazing at the snow-capped peaks.
+            </span>
+          </span>
+          <img
+            src="public/external/rectangle127728-wjbg-500h.png"
+            alt="Rectangle127728"
+            class="loveyatra-rectangle12"
+          />
+          <span class="loveyatra-text061"><span>BEAUTIFUL INDIA</span></span>
+          <img
+            src="public/external/rectangle137728-65tt-500h.png"
+            alt="Rectangle137728"
+            class="loveyatra-rectangle13"
+          />
+          <img
+            src="public/external/me17728-obps-500h.png"
+            alt="me17728"
+            class="loveyatra-me1"
+          />
+          <span class="loveyatra-text063"><span>India</span></span>
+          <span class="loveyatra-text065"><span>Mussoorie</span></span>
+          <img
+            src="public/external/pexelsjoshuabrits31164087728-hkpc-500w.png"
+            alt="pexelsjoshuabrits31164087728"
+            class="loveyatra-pexelsjoshuabrits3116408"
+          />
+          <span class="loveyatra-text067"><span>MANALI</span></span>
+          <img
+            src="public/external/pexelsmuffincreatives24687737728-j8ya-400h.png"
+            alt="pexelsmuffincreatives24687737728"
+            class="loveyatra-pexelsmuffincreatives2468773"
+          />
+          <span class="loveyatra-text069"><span>TRAVEL GUIDES</span></span>
+          <span class="loveyatra-text071"><span>TOP DESTINATIONS</span></span>
+          <span class="loveyatra-text073"><span>TRAVEL GUIDES</span></span>
+          <span class="loveyatra-text075"><span>GOA</span></span>
+          <img
+            src="public/external/line27729-eav4.svg"
+            alt="Line27729"
+            class="loveyatra-line2"
+          />
+          <img
+            src="public/external/line37729-wro.svg"
+            alt="Line37729"
+            class="loveyatra-line3"
+          />
+          <img
+            src="public/external/line47729-yjjx.svg"
+            alt="Line47729"
+            class="loveyatra-line4"
+          />
+          <div class="loveyatra-header">
+            <div class="loveyatra-navbar">
+              <a href="#">
+                <span class="loveyatra-text077" href="#"><span>Home</span></span>
+              </a>
+              <a href="#Gallery">
+                <span class="loveyatra-text079"><span>Gallery</span></span>
+              </a>
+              <a href="#Travel">
+                <span class="loveyatra-text081"><span>Travel</span></span>
+              </a>
+              <a href="#About">
+                <span class="loveyatra-text083"><span>About</span></span>
+              </a>
+            </div>
+            <div class="loveyatra-frame19">
+              <img
+                src="public/external/loveyatra17730-x4rr-200h.png"
+                alt="LOVEYATRA17730"
+                class="loveyatra-loveyatra1"
+              />
+              <img
+                src="public/external/loveyatra617730-m9f4-200h.png"
+                alt="LOveyatra617730"
+                class="loveyatra-loveyatra61"
+              />
+            </div>
+            <a href="404.html">
+              <div class="loveyatra-loginbutton">
+                <div class="loveyatra-frame20"></div>
+                <span class="loveyatra-text085">
+                  <span>LOGIN / SIGN UP</span>
+                </span>
+              </div>
+            </div>
+            </a>
+          <div class="loveyatra-why">
+            <img
+              src="public/external/rec147730-5vme.svg"
+              alt="rec147730"
+              class="loveyatra-rec14"
+            />
+            <span class="loveyatra-text087"><span>10</span></span>
+            <span class="loveyatra-text089">
+              <span>
+                <span>Maximize your travel budget with inclusive,</span>
+                <br />
+                <span>cost-effective adventure packages..</span>
+              </span>
+            </span>
+            <span class="loveyatra-text094"><span>Value-Packed</span></span>
+            <span class="loveyatra-text096">
+              <span>
+                <span>Why People must choose</span>
+                <br />
+                <span>LOVEYATRA?</span>
+              </span>
+            </span>
+            <span class="loveyatra-text101"><span>Adrenaline Rush</span></span>
+            <span class="loveyatra-text103">
+              <span>Sustainable Exploration</span>
+            </span>
+            <span class="loveyatra-text105"><span>Exclusivity</span></span>
+            <span class="loveyatra-text107">
+              <span>
+                <span>Exciting activities for thrill-seekers</span>
+                <br />
+                <span>seeking heart-pounding adventures.</span>
+              </span>
+            </span>
+            <span class="loveyatra-text112">
+              <span>
+                <span>Eco-conscious adventures supporting</span>
+                <br />
+                <span>nature, and responsible travel.</span>
+              </span>
+            </span>
+            <span class="loveyatra-text117">
+              <span>
+                Rare, unique adventures with limited availability for
+                extraordinary experiences.
+              </span>
+            </span>
+            <span class="loveyatra-text119"><span>We have</span></span>
+            <span class="loveyatra-text121">
+              <span>years Of Experience</span>
+            </span>
+            <img
+              src="public/external/value17732-v4wh-200h.png"
+              alt="value17732"
+              class="loveyatra-value1"
+            />
+            <img
+              src="public/external/exclusive17732-2iud-200h.png"
+              alt="exclusive17732"
+              class="loveyatra-exclusive1"
+            />
+            <img
+              src="public/external/planetearth17732-snw8-200h.png"
+              alt="planetearth17732"
+              class="loveyatra-planetearth1"
+            />
+            <img
+              src="public/external/adrenaline17732-0gxw-200h.png"
+              alt="adrenaline17732"
+              class="loveyatra-adrenaline1"
+            />
+          </div>
+          <img
+            src="public/external/rec7736-235-800h.png"
+            alt="rec7736"
+            class="loveyatra-rec"
+          />
+          <div class="loveyatra-imggallery">
+            <img
+              src="public/external/pexelsshahidsultan61557167736-ayli-500w.png"
+              alt="pexelsshahidsultan61557167736"
+              class="loveyatra-pexelsshahidsultan6155716"
+            />
+            <img
+              src="public/external/pexelsdylanchan441706917736-qpp-500w.png"
+              alt="pexelsdylanchan441706917736"
+              class="loveyatra-pexelsdylanchan44170691"
+            />
+            <span class="loveyatra-text123" id="Gallery"><span>IMAGE GALLARY</span></span>
+            <img
+              src="public/external/pexelsarthousestudio433802017737-uzk-500w.png"
+              alt="pexelsarthousestudio433802017737"
+              class="loveyatra-pexelsarthousestudio43380201"
+            />
+            <img
+              src="public/external/line57737-tzyg.svg"
+              alt="Line57737"
+              class="loveyatra-line5"
+            />
+          </div>
+          <img
+            src="public/external/pexelsmagdaehlers211401417737-vasq-1500w.png"
+            alt="pexelsmagdaehlers211401417737"
+            class="loveyatra-pexelsmagdaehlers21140141"
+          />
+          <span class="loveyatra-text125">
+            <span>The journey awaits, fulfil your dreams!</span>
+          </span>
+          <span class="loveyatra-text127"><span>LOVEYATRA</span></span>
+          <div class="loveyatra-frame13">
+            <div class="loveyatra-footer2">
+              <span class="loveyatra-text129" id="About">
+                <span>© 2023 Copyrights by Loveyatra. All Rights Reserved</span>
+              </span>
+            </div>
+            <span class="loveyatra-text131">
+              <span>
+                <span>Need any support for</span>
+                <br />
+                <span>tour &amp; travels ?</span>
+              </span>
+            </span>
+            <span class="loveyatra-text136">
+              <span>
+                <span>Ready to Get Started</span>
+                <br />
+                <span>With Vacations !</span>
+              </span>
+            </span>
+            <img
+              src="public/external/line37733-v3h4.svg"
+              alt="Line37733"
+              class="loveyatra-line31"
+            />
+            <div class="loveyatra-footerpages">
+              <span class="loveyatra-text141"><span>About us</span></span>
+              <span class="loveyatra-text143"><span>Community Blog</span></span>
+              <span class="loveyatra-text145"><span>Work with Us</span></span>
+              <span class="loveyatra-text147"><span>Privacy Policy</span></span>
+              <span class="loveyatra-text149"><span>Contact us</span></span>
+              <span class="loveyatra-text151"><span>PAGES</span></span>
+            </div>
+            <div class="loveyatra-footnewsletter">
+              <span class="loveyatra-text153">
+                <span>
+                  <span>Subscribe our newsletter to</span>
+                  <br />
+                  <span>get our latest update &amp; news.</span>
+                </span>
+              </span>
+              <span class="loveyatra-text158">
+                <span>I agree to all terms and policies</span>
+              </span>
+              <span class="loveyatra-text160"><span>NEWSLETTER</span></span>
+              <form action="mailto:prabhuji2910@gmail.com" method="post">
+                <input type="text" class="loveyatra-feedback">
+                <button style="margin-top: 140px;margin-left: 212px; width: 36px;height: 36px;border: 0.5px solid grey;" type="submit">
+                  <div class="loveyatra-mingcutesendfill">
+                    <div class="loveyatra-group">
+                    </div>
+                </div>
+                <img
+                  src="public/external/vector8823-105o.svg"
+                  alt="Vector8823"
+                  class="loveyatra-vector1"
+                />
+                </input>
+              </form>
+            </div>
+            <img
+              src="public/external/techsupport17734-2i2t-200h.png"
+              alt="techsupport17734"
+              class="loveyatra-techsupport1"
+            />
+            <img
+              src="public/external/aroundtheworld17734-0f5-200h.png"
+              alt="aroundtheworld17734"
+              class="loveyatra-aroundtheworld1"
+            />
+            <div class="loveyatra-footsocial">
+              <span class="loveyatra-text162"><span>LOVE YATRA</span></span>
+              <span class="loveyatra-text164">
+                <span>
+                  To take trivial example which usever undertakes laborious
+                  physica exercise except obsome.
+                </span>
+              </span>
+              <a href="https://www.instagram.com/prabhu.ji_/">
+                <img
+                  src="public/external/instagram.svg"
+                  alt="instagram17735"
+                  class="loveyatra-instagram1"
+                />
+              </a>
+              <a href="https://www.linkedin.com/in/prabhu-12105248/">
+                <img
+                  src="public/external/linkedin-alt.svg"
+                  alt="linkedin27735"
+                  class="loveyatra-linkedin23"
+                />
+              </a>
+              <a href="https://www.facebook.com/zuck/">
+                <img
+                  src="public/external/facebook-f.svg"
+                  alt="facebook17735"
+                  class="loveyatra-facebook1"
+                />
+              </a>
+              <a href="https://github.com/prabhu-ji">
+                <img
+                  src="public/external/github-alt (1).svg"
+                  alt="twitter17735"
+                  class="loveyatra-twitter1"
+                />
+              </a>
+            </div>
+            <div class="loveyatra-footcontact">
+              <span class="loveyatra-text166"><span>Drop a Line</span></span>
+              <span class="loveyatra-text168"><span>CONTACT</span></span>
+              <img
+                src="public/external/location17734-wvvq-200h.png"
+                alt="location17734"
+                class="loveyatra-location1"
+              />
+              <img
+                src="public/external/phone17734-kkq-200h.png"
+                alt="phone17734"
+                class="loveyatra-phone1"
+              />
+              <img
+                src="public/external/message17735-gll-200h.png"
+                alt="message17735"
+                class="loveyatra-message1"
+              />
+              <span class="loveyatra-text170"><span>+91 6395902032</span></span>
+              <span class="loveyatra-text172"><span>Email Address</span></span>
+              <span class="loveyatra-text174"><span>Visit Office</span></span>
+              <span class="loveyatra-text176">
+                <span>love.yatra@gmail.com</span>
+              </span>
+              <span class="loveyatra-text178">
+                <span>
+                  <span>Sector 27, Gurugram,</span>
+                  <br />
+                  <span>Haryana, INDIA</span>
+                </span>
+              </span>
+            </div>
+            <img
+              src="public/external/loveyatra627736-gwsa-200h.png"
+              alt="LOveyatra627736"
+              class="loveyatra-loveyatra62"
+            />
+            <img
+              src="public/external/loveyatra417736-l668-200h.png"
+              alt="LOVEYATRA417736"
+              class="loveyatra-loveyatra41"
+            />
+            <img
+              src="public/external/linkedin17736-hhwa-200h.png"
+              alt="linkedin17736"
+              class="loveyatra-linkedin13"
+            />
+          </div>
+          <span class="loveyatra-text183">
+            <span>
+              Explore the vibrant tapestry of cities around the world with our
+              collection of recent stories. In Tokyo, immerse yourself in the
+              futuristic allure of neon-lit streets and tranquil Shinto shrines,
+              where tradition and innovation seamlessly coexist. Journey to the
+              heart of Paris, where the Eiffel Tower's timeless elegance stands
+              tall beside chic boutiques and charming sidewalk cafes. Venture to
+              New York City's bustling avenues, where the skyline gleams with
+              iconic skyscrapers and Central Park provides an oasis of green
+              amidst the urban jungle. Experience the rhythmic energy of Rio de
+              Janeiro's Carnival, where samba rhythms and vibrant costumes
+              ignite the streets with celebration. Each city offers a unique
+              adventure, waiting to be explored and cherished, promising
+              memories that will last a lifetime.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script>
+    function sendMail() {
+    var link = "mailto:me@example.com"
+             + "?cc=myCCaddress@example.com"
+             + "&subject=" + escape("This is my subject")
+             + "&body=" + escape(document.getElementById('myText').value)
+    ;
+
+    window.location.href = link;
+}
+  </script>
+</html>

@@ -1,0 +1,2127 @@
+.loveyatra-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.loveyatra-loveyatra {
+  width: 100%;
+  height: 6505px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text {
+  top: 1414px;
+  left: 177px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: italic;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text002 {
+  top: 1323px;
+  left: 521px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-minis {
+  top: 1020px;
+  left: 0px;
+  width: 1460px;
+  height: 230px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-rest {
+  top: 0px;
+  left: 0px;
+  width: 264.19049072265625px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text004 {
+  top: 193px;
+  left: 71.84127044677734px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text006 {
+  top: 193px;
+  left: 71.84127044677734px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-image20230827151142fpdl1 {
+  top: 0px;
+  left: 42.873016357421875px;
+  width: 177px;
+  height: 156px;
+  position: absolute;
+}
+.loveyatra-text008 {
+  top: 161px;
+  left: 49.82539749145508px;
+  color: rgba(0, 0, 0, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-beach {
+  top: 2px;
+  left: 298.952392578125px;
+  width: 264.19049072265625px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text010 {
+  top: 193px;
+  left: 71.84125518798828px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text012 {
+  top: 161px;
+  left: 78.79364013671875px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-image20230827191712fpdl1 {
+  top: 0px;
+  left: 9.269829750061035px;
+  width: 255px;
+  height: 153px;
+  position: absolute;
+}
+.loveyatra-overnight {
+  top: 0px;
+  left: 597.90478515625px;
+  width: 264.19049072265625px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text014 {
+  top: 193px;
+  left: 71.84124755859375px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text016 {
+  top: 161px;
+  left: 61.41267395019531px;
+  color: rgba(0, 0, 0, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-image20230827151411fpdl1 {
+  top: 2px;
+  left: 0px;
+  width: 264px;
+  height: 153px;
+  position: absolute;
+}
+.loveyatra-camp {
+  top: 0px;
+  left: 896.8571166992188px;
+  width: 264.19049072265625px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text018 {
+  top: 193px;
+  left: 71.84147644042969px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text020 {
+  top: 161px;
+  left: 78.79386138916016px;
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-camping {
+  top: 11px;
+  left: 20.857351303100586px;
+  width: 222px;
+  height: 130px;
+  position: absolute;
+}
+.loveyatra-lowbud {
+  top: 2px;
+  left: 1195.8095703125px;
+  width: 264.19049072265625px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text022 {
+  top: 193px;
+  left: 72.99995422363281px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text024 {
+  top: 161px;
+  left: 55.61899948120117px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-image20230827150937fpdl1 {
+  top: 0px;
+  left: 42.87297058105469px;
+  width: 177px;
+  height: 153px;
+  position: absolute;
+}
+.loveyatra-india {
+  top: 1546px;
+  left: 21px;
+  width: 338px;
+  height: 777px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text026 {
+  top: 581px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-india1 {
+  top: 305px;
+  left: 64px;
+  width: 227px;
+  height: 280px;
+  position: absolute;
+}
+.loveyatra-pexelsprabhalaraghuvir579011 {
+  top: 0px;
+  left: 0px;
+  width: 338px;
+  height: 300px;
+  position: absolute;
+}
+.loveyatra-text028 {
+  top: 668px;
+  left: 23px;
+  color: rgba(115, 111, 111, 1);
+  width: 282px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-explore {
+  top: 700px;
+  left: 129px;
+  width: 65.2px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text030 {
+  top: 8px;
+  left: 6.5px;
+  color: rgba(68, 68, 68, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-linkedin2 {
+  top: 347px;
+  left: 122px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-linkedin3 {
+  top: 502px;
+  left: 113px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-japan {
+  top: 1546px;
+  left: 381px;
+  width: 340px;
+  height: 777px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-mapofjapanoutlinesilhouetteofjapanmapillustration-r {
+  top: 323px;
+  left: 42px;
+  width: 237px;
+  height: 251px;
+  position: absolute;
+}
+.loveyatra-pexelswillianjustendevasconcellos158294271 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 300px;
+  position: absolute;
+}
+.loveyatra-text032 {
+  top: 581px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text034 {
+  top: 668px;
+  left: 51px;
+  color: rgba(115, 111, 111, 1);
+  width: 238px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-linkedin1 {
+  top: 464px;
+  left: 175.366455078125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-linkedin31 {
+  top: 344px;
+  left: 216.853515625px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-explore1 {
+  top: 700px;
+  left: 137px;
+  width: 65.25167846679688px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text036 {
+  top: 8px;
+  left: 6.541015625px;
+  color: rgba(68, 68, 68, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-switzerland {
+  top: 1546px;
+  left: 741px;
+  width: 340px;
+  height: 777px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-pexelspixabay4159581 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 300px;
+  position: absolute;
+}
+.loveyatra-outlinemapofswitzerland-byb8gp1 {
+  top: 332px;
+  left: 10.065577507019043px;
+  width: 319px;
+  height: 239px;
+  position: absolute;
+}
+.loveyatra-text038 {
+  top: 585px;
+  left: 46px;
+  color: rgba(0, 0, 0, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text040 {
+  top: 668px;
+  left: 24px;
+  color: rgba(115, 111, 111, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-linkedin11 {
+  top: 396px;
+  left: 126.4375px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-linkedin21 {
+  top: 469px;
+  left: 217.8125px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-explore2 {
+  top: 700px;
+  left: 137px;
+  width: 65.25167846679688px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text042 {
+  top: 8px;
+  left: 6.541015625px;
+  color: rgba(68, 68, 68, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-usa {
+  top: 1546px;
+  left: 1101px;
+  width: 340px;
+  height: 777px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-silhouettemapof-united-statesof-americagenerated1 {
+  top: 312px;
+  left: 11.184422492980957px;
+  width: 314px;
+  height: 227px;
+  position: absolute;
+}
+.loveyatra-pexelspixabay2087451 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 300px;
+  position: absolute;
+}
+.loveyatra-text044 {
+  top: 581px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text046 {
+  top: 668px;
+  left: 28px;
+  color: rgba(115, 111, 111, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-linkedin12 {
+  top: 463px;
+  left: 131.75px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-linkedin22 {
+  top: 376px;
+  left: 60.5625px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-linkedin32 {
+  top: 428px;
+  left: 215.625px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-explore3 {
+  top: 703px;
+  left: 135px;
+  width: 65.25167846679688px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text048 {
+  top: 8px;
+  left: 6.541015625px;
+  color: rgba(68, 68, 68, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-frame5 {
+  top: 3232px;
+  left: 0px;
+  width: 1460px;
+  height: 558px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-text050 {
+  top: 60px;
+  left: 364px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-frame6 {
+  top: 256px;
+  left: 72px;
+  width: 236px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-image20230828000306fpdl1 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 256px;
+  position: absolute;
+}
+.loveyatra-frame7 {
+  top: 256px;
+  left: 343px;
+  width: 235px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-image20230828000243fpdl1 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 256px;
+  position: absolute;
+}
+.loveyatra-frame8 {
+  top: 256px;
+  left: 883px;
+  width: 235px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+/* .loveyatra-headphonesbalancingwithbluebackground1 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 256px;
+  position: absolute;
+} */
+.loveyatra-frame9 {
+  top: 256px;
+  left: 613px;
+  width: 235px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-image20230828000126fpdl1 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 256px;
+  position: absolute;
+}
+.loveyatra-frame10 {
+  top: 256px;
+  left: 1153px;
+  width: 235px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-image20230828000650fpdl1 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 256px;
+  position: absolute;
+}
+.loveyatra-text052 {
+  top: 144px;
+  left: 207px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-line1 {
+  top: 2413px;
+  left: 612px;
+  width: 236px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-text054 {
+  top: 3912px;
+  left: 396px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-rectangle11 {
+  top: 4356px;
+  left: 105px;
+  width: 664px;
+  height: 892px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-text059 {
+  top: 4872px;
+  left: 124px;
+  color: rgba(0, 0, 0, 0.6100000143051147);
+  width: 626px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-rectangle12 {
+  top: 4356px;
+  left: 816px;
+  width: 538px;
+  height: 438px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-text061 {
+  top: 4711px;
+  left: 958px;
+  color: rgba(68, 68, 68, 0.800000011920929);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-rectangle13 {
+  top: 4810px;
+  left: 816px;
+  width: 538px;
+  height: 438px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-me1 {
+  top: 4376px;
+  left: 149px;
+  width: 578px;
+  height: 418px;
+  position: absolute;
+}
+.loveyatra-text063 {
+  top: 4785px;
+  left: 375px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text065 {
+  top: 4849px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-pexelsjoshuabrits3116408 {
+  top: 4373px;
+  left: 866px;
+  width: 438px;
+  height: 296px;
+  position: absolute;
+}
+.loveyatra-text067 {
+  top: 4674px;
+  left: 1047px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-pexelsmuffincreatives2468773 {
+  top: 4827px;
+  left: 853px;
+  width: 465px;
+  height: 305px;
+  position: absolute;
+}
+.loveyatra-text069 {
+  top: 4750px;
+  left: 1043px;
+  color: rgba(0, 0, 0, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Light;
+  text-align: left;
+  font-family: Sunflower;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text071 {
+  top: 5177px;
+  left: 943px;
+  color: rgba(68, 68, 68, 0.800000011920929);
+  width: 283px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text073 {
+  top: 5216px;
+  left: 1043px;
+  color: rgba(0, 0, 0, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Light;
+  text-align: left;
+  font-family: Sunflower;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text075 {
+  top: 5137px;
+  left: 1063px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Square Peg;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-line2 {
+  top: 3835px;
+  left: 612px;
+  width: 236px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-line3 {
+  top: 5925px;
+  left: 620px;
+  width: 218px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-line4 {
+  top: 5340px;
+  left: 621px;
+  width: 218px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-header {
+  top: 0px;
+  left: 0px;
+  width: 1460px;
+  height: 82px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  /* position: fixed;
+  z-index: 200; */
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loveyatra-navbar {
+  gap: 76px;
+  top: 26px;
+  left: 440px;
+  width: 580px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.loveyatra-text077 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text079 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text081 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text083 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-frame19 {
+  top: 2px;
+  left: 20px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loveyatra-loveyatra1 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.loveyatra-loveyatra61 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.loveyatra-loginbutton {
+  top: 25px;
+  left: 1296px;
+  width: 131px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-frame20 {
+  top: 0px;
+  left: 0px;
+  width: 131px;
+  height: 35px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(68, 68, 68, 0.2199999988079071);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(68, 68, 68, 0.2199999988079071);
+}
+.loveyatra-text085 {
+  top: 9px;
+  left: 5px;
+  color: rgba(85, 80, 80, 0.9300000071525574);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-why {
+  gap: 10px;
+  top: 5391px;
+  left: 110px;
+  width: 1279px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.loveyatra-rec14 {
+  width: 1279px;
+  height: 522px;
+}
+.loveyatra-text087 {
+  top: 143px;
+  left: 914px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 1;
+  position: absolute;
+  font-size: 250px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Sacramento;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text089 {
+  top: 248px;
+  left: 38px;
+  color: rgba(0, 0, 0, 0.5099999904632568);
+  height: auto;
+  z-index: 2;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text094 {
+  top: 187px;
+  left: 98px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 3;
+  position: absolute;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text096 {
+  top: 21px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 4;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text101 {
+  top: 187px;
+  left: 559px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  z-index: 5;
+  position: absolute;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text103 {
+  top: 338px;
+  left: 98px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 6;
+  position: absolute;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text105 {
+  top: 333px;
+  left: 559px;
+  color: rgba(0, 0, 0, 1);
+  width: 225px;
+  height: auto;
+  z-index: 7;
+  position: absolute;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text107 {
+  top: 248px;
+  left: 493px;
+  color: rgba(0, 0, 0, 0.5099999904632568);
+  width: 354px;
+  height: auto;
+  z-index: 8;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text112 {
+  top: 399px;
+  left: 38px;
+  color: rgba(0, 0, 0, 0.5099999904632568);
+  height: auto;
+  z-index: 9;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text117 {
+  top: 394px;
+  left: 503px;
+  color: rgba(0, 0, 0, 0.5099999904632568);
+  width: 344px;
+  height: auto;
+  z-index: 10;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text119 {
+  top: 158px;
+  left: 1113px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 11;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text121 {
+  top: 409px;
+  left: 914px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 12;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-value1 {
+  top: 181px;
+  left: 38px;
+  width: 50px;
+  height: 50px;
+  z-index: 13;
+  position: absolute;
+}
+.loveyatra-exclusive1 {
+  top: 327px;
+  left: 493px;
+  width: 50px;
+  height: 50px;
+  z-index: 14;
+  position: absolute;
+}
+.loveyatra-planetearth1 {
+  top: 332px;
+  left: 38px;
+  width: 50px;
+  height: 50px;
+  z-index: 15;
+  position: absolute;
+}
+.loveyatra-adrenaline1 {
+  top: 181px;
+  left: 493px;
+  width: 50px;
+  height: 50px;
+  z-index: 16;
+  position: absolute;
+}
+.loveyatra-rec {
+  top: 2459px;
+  left: 0px;
+  width: 1460px;
+  height: 727px;
+  position: absolute;
+}
+.loveyatra-imggallery {
+  top: 2480px;
+  left: 10px;
+  width: 1440.2955322265625px;
+  height: 706px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-pexelsshahidsultan6155716 {
+  top: 119px;
+  left: 0px;
+  width: 470px;
+  height: 500px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.6000000238418579);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-pexelsdylanchan44170691 {
+  top: 119px;
+  left: 970px;
+  width: 470px;
+  height: 500px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.6000000238418579);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-text123 {
+  left: 542.3328247070312px;
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-pexelsarthousestudio43380201 {
+  top: 119px;
+  left: 484.8522644042969px;
+  width: 470px;
+  height: 500px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.6000000238418579);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-line5 {
+  top: 706px;
+  left: 592.0000610351562px;
+  width: 256px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-pexelsmagdaehlers21140141 {
+  top: 82px;
+  left: 0px;
+  width: 1460px;
+  height: 888px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.loveyatra-text125 {
+  top: 563px;
+  left: 435px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: italic;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text127 {
+  top: 392px;
+  left: 341px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 140px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-frame13 {
+  top: 5963px;
+  left: 0px;
+  width: 1460px;
+  height: 542px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(68, 68, 68, 0.2);
+}
+.loveyatra-footer2 {
+  top: 476px;
+  left: 0px;
+  width: 1460px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(115, 111, 111, 0.35);
+}
+.loveyatra-text129 {
+  top: 21px;
+  left: 467px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text131 {
+  top: 46px;
+  left: 146px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text136 {
+  top: 46px;
+  left: 1118px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-line31 {
+  top: 158.4990234375px;
+  left: 92px;
+  width: 1275px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-footerpages {
+  top: 179px;
+  left: 472px;
+  width: 155px;
+  height: 177px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-text141 {
+  top: 45px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text143 {
+  top: 73px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text145 {
+  top: 101px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text147 {
+  top: 155px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text149 {
+  top: 129px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text151 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-footnewsletter {
+  top: 178px;
+  left: 752px;
+  width: 256px;
+  height: 176px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-text153 {
+  top: 45px;
+  color: rgba(68, 68, 68, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text158 {
+  top: 114px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text160 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-feedback {
+  top: 140px;
+  left: 0px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(68, 68, 68, 0.);
+  border-bottom: 1px solid grey;
+}
+.loveyatra-mingcutesendfill {
+  top: 6px;
+  left: 227px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loveyatra-group {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-vector {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.loveyatra-vector1 {
+  top: 148px;
+  left: 218px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.loveyatra-line6 {
+  top: 0px;
+  left: 222px;
+  width: 36px;
+  height: 1px;
+  position: absolute;
+}
+.loveyatra-techsupport1 {
+  top: 36px;
+  left: 38px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-aroundtheworld1 {
+  top: 36px;
+  left: 1010px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-footsocial {
+  top: 179px;
+  left: 92px;
+  width: 255px;
+  height: 189px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-text162 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text164 {
+  top: 45px;
+  left: 1px;
+  color: rgba(68, 68, 68, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-instagram1 {
+  top: 158px;
+  left: 1px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.loveyatra-linkedin23 {
+  top: 159px;
+  left: 69px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.loveyatra-facebook1 {
+  top: 158px;
+  left: 184px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.loveyatra-twitter1 {
+  top: 159px;
+  left: 126px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.loveyatra-footcontact {
+  top: 173px;
+  left: 1133px;
+  width: 235px;
+  height: 224px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loveyatra-text166 {
+  top: 48px;
+  left: 58px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text168 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-location1 {
+  top: 159px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-phone1 {
+  top: 48px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-message1 {
+  top: 102px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-text170 {
+  top: 68px;
+  left: 58px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text172 {
+  top: 102px;
+  left: 58px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text174 {
+  top: 162px;
+  left: 58px;
+  color: rgba(68, 68, 68, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text176 {
+  top: 122px;
+  left: 58px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-text178 {
+  top: 182px;
+  left: 58px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loveyatra-loveyatra62 {
+  top: -31px;
+  left: -233px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.loveyatra-loveyatra41 {
+  top: 26px;
+  left: 680px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.loveyatra-linkedin13 {
+  top: -4096px;
+  left: 121px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.loveyatra-text183 {
+  top: 4071px;
+  left: 147px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  width: 1167px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 300;
+  line-height: 151.90000534057617%;
+  font-stretch: normal;
+  text-decoration: none;
+}
